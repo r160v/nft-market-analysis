@@ -1,0 +1,6 @@
+/general_info/**/**/*.crc
+/general_info/spark/clean_dataset/part-00000-34cda5d6-b3fc-4980-9947-d387fd6166b5-c000.csv
+/general_info/**/**/_SUCCESS
+/output
+/data/fixedDataset3.csv
+/general_info/spark/clean_dataset/part-00000-afff8232-643c-4907-a964-9eeac4a6a3ff-c000.csv
