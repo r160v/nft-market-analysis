@@ -15,6 +15,8 @@ de generar diferentes perspectivas que permitan una mayor comprensión del compo
 Se utiliza la herramienta de Big Data Raphtory para el modelado de grafos temporales. Los componentes y algoritmos de esta aplicación se programan en 
 Scala. Para el procesado de la información de salida de Raphtory se utiliza Spark/Scala, Python y Pandas.
 
+El dataset con las transacciones se puede obtener en: https://osf.io/wsnzr/?view_only=319a53cf1bf542bbbe538aba37916537, provisto en Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution: market trends, trade networks, and visual features. Sci Rep 11, 20902 (2021).
+
 In this work, an analysis of the characteristics of the NFT market is carried out using data from transactions that have occurred between June 2017 and 
 April 2021. Initially, a study of different Big Data tools that allow the modeling and analysis of graphs is carried out. Second, a statistical 
 characterization of the available data is performed, breaking down the data into the different NFT categories. Next, a set of algorithms is designed to 
@@ -23,3 +25,7 @@ of generating different perspectives that allow a better understanding of the be
 
 The Big Data tool Raphtory is used for the modeling of temporal graphs. The components and algorithms of this application are programmed in Scala. 
 Spark/Scala, Python and Pandas are used to process the output from Raphtory.
+
+The dataset with the NFT transactions can be obtained at: https://osf.io/wsnzr/?view_only=319a53cf1bf542bbbe538aba37916537, pprovided by Nadini, M., Alessandretti, L., Di Giacinto, F. et al. Mapping the NFT revolution: market trends, trade networks, and visual features. Sci Rep 11, 20902 (2021).
+
+
